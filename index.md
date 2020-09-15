@@ -1,5 +1,5 @@
 # Introduce
-* Nanme: 최영화
+* Name: 최영화
 * Birth: 1986.02.24
 * Major: Computer software
 

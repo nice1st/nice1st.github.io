@@ -7,5 +7,5 @@
 ## Web Development
 
 * image
-![Image Alt 텍스트]({{"/data/test.png"| relative_url}})
+![TITLE](/data/test.png)
 *여기에 캡션을 작성합니다.*

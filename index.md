@@ -8,3 +8,5 @@
 
 * image
 ![TITLE](/data/test.png)
+* gif
+![GIF](data.1591681776.gif)

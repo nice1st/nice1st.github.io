@@ -7,8 +7,7 @@
 ## Web Development
 
 * image
-
-![TITLE](/data/test.png){: width=300" height=300}
+<img src="/data/test.png" width="300px" height="300px"/> 
 
 * gif
 

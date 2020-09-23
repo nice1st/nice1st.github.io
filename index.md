@@ -8,7 +8,7 @@
 
 * image
 
-![TITLE](/data/test.png){:width="300" height="300"}
+![TITLE](/data/test.png){: width=300" height=300}
 
 * gif
 

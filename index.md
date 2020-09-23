@@ -10,5 +10,4 @@
 <img src="/data/test.png" width="300px" height="300px"/> 
 
 * gif
-
-![GIF](data/1591681776.gif)
+<img src="/data/1591681776.gif" width="300px" height="300px"/> 

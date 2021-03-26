@@ -1,8 +1,8 @@
 ---
-title: "Archive Layout with Content"
-layout: archive
-permalink: /archive-layout-with-content/
+layout: default
+title: Archive
 ---
+
 
 # 프로필
 <img src="data/profile1.jpg" width="200px" height="200px"/>

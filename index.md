@@ -1,5 +1,6 @@
 ---
 layout: archive
+calsses: wide
 ---
 
 # 프로필

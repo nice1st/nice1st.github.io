@@ -1,11 +1,11 @@
-remote_theme           : sharu725/hagura
+remote_theme : "sharu725/hagura"
 
 ### your site title here
 
 title: Hagura - Light!
 baseurl: "" # name of the repository
-email: your@email.com
-url: https://nice1st.github.io/
+email: nice1st_p@naver.com
+url: "https://nice1st.github.io/"
 
 
 

@@ -19,7 +19,6 @@ locale                   : "en-US"
 title                    : "이력서"
 title_separator          : "-"
 subtitle                 : "9년차 웹 어플리케이션 개발자" # site tagline that appears below site title in masthead
-classes                  : wide
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://nice1st.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -241,6 +240,8 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+archive:
+  classes: wide
 category_archive:
   type: liquid
   path: /categories/

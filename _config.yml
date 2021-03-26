@@ -1,64 +1,53 @@
-# remote_theme           : ""
+remote_theme           : sharu725/hagura
 
-# Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://nice1st.github.io/"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+### your site title here
 
-# Author
-author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+title: Hagura - Light!
+baseurl: "" # name of the repository
+email: your@email.com
+url: https://nice1st.github.io/
 
-# social
-social:
-  email: true
-  behance:
-  bitbucket:
-  dribbble:
-  facebook: Test
-  flickr:
-  github: kssim
-  google_plus:
-  instagram:
-  keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:
-  steam:
-  tumblr:
-  gitlab:
-  twitter: Test
-  vimeo:
-  wordpress:
-  youtube:
-  default_txt: "Follow On"
 
-# Build settings
+
+highlighter: rouge
 markdown: kramdown
 
-# Assets
+
+paginate: 4
+
+
+# Tracker
+analytics: UA-83979019-4
+
+# Comments
+disqus-shortname: webjeda-demo
+
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+
 sass:
-  sass_dir: _sass
+  sass_dir: /assets/css/_sass
   style: compressed
 
-# Gems
-plugins:
-  - jekyll-paginate
+include:
+  - _pages
 
-# Permalinks
-permalink: /:year-:month-:day/:title
-paginate_path: "/portfolio/page:num/"
-paginate: 5
 exclude:
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "*.gem"
-  - "LICENSE"
-  - "READE.md"
-  - "screenshot.png"
+  - README.md
+  - LICENSE.md
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate

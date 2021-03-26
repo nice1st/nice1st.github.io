@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: 9년차 웹 어플리케이션 개발자
 ---
 
 # 프로필

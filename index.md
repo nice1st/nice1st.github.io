@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 프로필
 <img src="data/profile1.jpg" width="200px" height="200px"/>
 

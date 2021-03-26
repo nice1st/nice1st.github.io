@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Archive
+title: "Archive Layout with Content"
+layout: archive
+permalink: /archive-layout-with-content/
 ---
 
 # 프로필

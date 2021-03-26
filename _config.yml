@@ -19,6 +19,7 @@ locale                   : "en-US"
 title                    : "이력서"
 title_separator          : "-"
 subtitle                 : "9년차 웹 어플리케이션 개발자" # site tagline that appears below site title in masthead
+classes                  : wide
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://nice1st.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

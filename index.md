@@ -1,8 +1,3 @@
----
-layout: archive
-title: 9년차 웹 어플리케이션 개발자
----
-
 # 프로필
 <img src="data/profile1.jpg" width="200px" height="200px"/>
 

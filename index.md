@@ -1,5 +1,6 @@
 ---
-layout: about 
+layout: post
+title: Documentation
 ---
 
 

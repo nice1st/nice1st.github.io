@@ -1,9 +1,9 @@
 <style>
-    .horizonAlign image + ul {
+    .horizonAlign img + ul {
         display: inline-block;
         width: 65%;
     }
-    .horizonAlign image + ul ~ image {
+    .horizonAlign img + ul ~ img {
         display: inline-block;
         width: 35%;
     }

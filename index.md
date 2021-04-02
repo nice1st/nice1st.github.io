@@ -1,4 +1,17 @@
+<style>
+    .horizonAlign p + ul {
+        display: inline-block;
+        width: 65%;
+    }
+    .horizonAlign p + ul ~ p {
+        display: inline-block;
+        width: 35%;
+    }
+</style>
+
 # 프로필
+
+<div class="horizonAlign">
 
 <img src="data/profile1.jpg" width="200px" height="200px"/>
 
@@ -6,6 +19,8 @@
 * 1986.02.24
 * <nice1st_p@naver.com>
 * <https://github.com/nice1st>
+
+</div>
 
 # 소개
 ## 기술

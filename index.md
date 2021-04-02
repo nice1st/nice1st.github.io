@@ -1,9 +1,9 @@
 <style>
-    .horizonAlign p + ul {
+    .horizonAlign image + ul {
         display: inline-block;
         width: 65%;
     }
-    .horizonAlign p + ul ~ p {
+    .horizonAlign image + ul ~ image {
         display: inline-block;
         width: 35%;
     }
@@ -15,10 +15,12 @@
 
 <img src="data/profile1.jpg" width="200px" height="200px"/>
 
-* 최영화
-* 1986.02.24
-* <nice1st_p@naver.com>
-* <https://github.com/nice1st>
+<ul>
+<li>최영화</li>
+<li>1986.02.24</li>
+<li><nice1st_p@naver.com></li>
+<li><https://github.com/nice1st></li>
+</ul>
 
 </div>
 

@@ -123,6 +123,8 @@
 ## EMS 통합관제
 네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션
 <br/><img src="data/g1.gif" width="400px" height="240px"/><br/>
+* 주로 대시보드 개발
+* CRUD UI 및 이력/통계/레포트 개발
 
 # 경력 (총 9년)
 ## KTICT
@@ -139,6 +141,12 @@
 * 2016.11 ~ 2019.08 (2년 9개월)
 * 조직문화에 대한 고민
   * 기술 및 개발내용 공유를 위해 노력 했습니다.
+  <br/><img src="data/s8.png" width="150px" height="80px"/>
+  <img src="data/s3.png" width="150px" height="80px"/>
+  <img src="data/s6.png" width="150px" height="80px"/><br/>
+    * 컴포넌트기반 개발
+    * 메시지 pub/sub 모델
+    * MSA
 
 ## 다임즈
 * 2011.07 ~ 2016.04 (4년 9개월)

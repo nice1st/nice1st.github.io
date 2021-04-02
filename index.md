@@ -13,8 +13,8 @@
   <ul>
     <li>최영화</li>
     <li>1986.02.24</li>
-    <li>nice1st_p@naver.com</li>
-    <li>https://github.com/nice1st</li>
+    <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
+    <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
   </ul>
 </div>
 
@@ -131,7 +131,7 @@
 * 2020.06 ~ 현재 (약 1년)
 * 개발환경 구축
 <br/><img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_1.png" width="200px" height="200px"/>
-<img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_2.png" width="450px" height="300px"/>
+<img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_2.png" width="450px" height="300px"/><br/>
 
 ## 띵스파이어
 * 2019.10 ~ 2020.05 (6개월)

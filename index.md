@@ -122,9 +122,9 @@
 
 ## EMS 통합관제
 네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션
-<br/><img src="data/g1.png" width="400px" height="240px"/><br/>
+<br/><img src="data/g1.gif" width="400px" height="240px"/><br/>
 
-# 경력
+# 경력 (총 9년)
 ## KTICT
 * 2020.06 ~ 현재 (약 1년)
 * 개발환경 구축

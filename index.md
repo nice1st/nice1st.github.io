@@ -98,32 +98,35 @@
 # 프로젝트
 ## CCTV 뷰어
 기관에서 수집 된 CCTV 영상을 관제하고 활용할 수 있는 웹 어플리케이션
-* Back-end
+* <span style="font-size:1.4em;">Back-end</span>
 <br/><img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_3.png" width="500px" height="300px"/><br/>
   * 시스템 구성: Spring Cloud 기반 MSA 설계 및 개발
   * 데이터 모델링 및 RDB 설계
-* Front-end
+* <span style="font-size:1.4em;">Front-end</span>
 <br/><img src="data/s1.png" width="500px" height="300px"/><br/>
   * vanilla JS 컴포넌트 기반 개발
   * UI 개발
 
 ## 네트워크 스위치 컨트롤러
 네트워크 스위치 통신하여 상태를 확인하고 설정할 수 있는 웹 어플리케이션
-* Back-end
-  * 실시간 대시보드 메시지 전달을 위해 모듈 개발
+<br/><img src="data/s7.png" width="450px" height="130px"/><br/>
+  * 메시지 Broadcast 모듈 개발
+  <br/><img src="data/s2.png" width="200px" height="100px"/>
+  <img src="data/s3.png" width="200px" height="100px"/><br/>
     * 장비의 상태 수집 상황 및 장애 정보를 대시보드에서 실시간으로 관제할 수 있도록 메시지 구독 형태의 모듈을 설계 및 개발 했습니다.
-* Front-end
-
-## SDN
-SDN 설정 웹 어플리케이션
-* 
+  * 레거시 프로젝트 Scale out 분석 및 구성
+  <br/><img src="data/s4.png" width="200px" height="100px"/>
+  <img src="data/s6.png" width="200px" height="100px"/><br/>
+  * 대시보드 플랫폼 설계 및 개발
+  <br/><img src="data/s5.png" width="200px" height="100px"/><br/>
 
 ## EMS 통합관제
 네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션
+<br/><img src="data/g1.png" width="400px" height="240px"/><br/>
 
 # 경력
 ## KTICT
-* 2020.06 ~ 현재
+* 2020.06 ~ 현재 (약 1년)
 * 개발환경 구축
 <br/><img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_1.png" width="200px" height="200px"/>
 <img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_2.png" width="450px" height="300px"/>
@@ -135,7 +138,7 @@ SDN 설정 웹 어플리케이션
 ## 파이오링크
 * 2016.11 ~ 2019.08 (2년 9개월)
 * 조직문화에 대한 고민
-  * 기술 및 개발내용 공유를 주도 했습니다.
+  * 기술 및 개발내용 공유를 위해 노력 했습니다.
 
 ## 다임즈
 * 2011.07 ~ 2016.04 (4년 9개월)

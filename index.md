@@ -12,50 +12,92 @@
 # 프로필
 
 <div class="horizonAlign">
+  <img src="data/profile1.jpg" width="200px" height="200px"/>
 
-<img src="data/profile1.jpg" width="200px" height="200px"/>
-
-<ul>
-<li>최영화</li>
-<li>1986.02.24</li>
-<li><nice1st_p@naver.com></li>
-<li><https://github.com/nice1st></li>
-</ul>
-
+  <ul>
+    <li>최영화</li>
+    <li>1986.02.24</li>
+    <li>nice1st_p@naver.com</li>
+    <li>https://github.com/nice1st</li>
+  </ul>
 </div>
 
 # 소개
 ## 기술
 
-<img src="data/technique.png" width="370px" height="210px"/>
+<div class="horizonAlign">
+  <img src="data/technique.png" width="370px" height="210px"/>
 
-* JAVA
-  * Spring framework 환경에서 웹, API, 통신, 수집 서버 개발을 경험 했습니다.
-* Javascript
-  * ES6 기반 vanilla JS 프레임워크 환경에 관심을 가지고 개발 하고 있습니다.
-* MQ, Webflux
-  * 최근 비동기 프로그래밍에 관심이 많습니다.
+  <ul>
+    <li>
+      JAVA
+      <ul>
+        <li>Spring framework 환경에서 웹, API, 통신, 수집 서버 개발을 경험 했습니다.</li>
+      </ul>
+    </li>
+    <li>
+      Javascript
+      <ul>
+        <li>ES6 기반 vanilla JS 프레임워크 환경에 관심을 가지고 개발 하고 있습니다.</li>
+      </ul>
+    </li>
+    <li>
+      MQ, Webflux
+      <ul>
+        <li>최근 비동기 프로그래밍에 관심이 많습니다.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 
 ## 관심사
 
-<img src="data/interest.png" width="370px" height="210px"/>
+<div class="horizonAlign">
+  <img src="data/interest.png" width="370px" height="210px"/>
 
-* 서비스플랫폼
-  * 소프트웨어 중심의 서비스 플랫폼 개발을 경험 해보고 싶습니다.
-* 조직문화와 성장
-  * 조직문화가 주는 긍정적인 시너지 효과를 기대합니다.
-* 데이터모델링
-  * 목적과 대상을 추상화하여 확장성이 용이할 때 큰 성취감을 느낍니다.
+  <ul>
+    <li>
+      서비스플랫폼
+      <ul>
+        <li>소프트웨어 중심의 서비스 플랫폼 개발을 경험 해보고 싶습니다.</li>
+      </ul>
+    </li>
+    <li>
+      조직문화와 성장
+      <ul>
+        <li>조직문화가 주는 긍정적인 시너지 효과를 기대합니다.</li>
+      </ul>
+    </li>
+    <li>
+      데이터모델링
+      <ul>
+        <li>목적과 대상을 추상화하여 확장성이 용이할 때 큰 성취감을 느낍니다.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 ## 성격
 
-<img src="data/character.png" width="370px" height="210px"/>
+<div class="horizonAlign">
+  <img src="data/character.png" width="370px" height="210px"/>
 
-* 적응력
-  * 주변 환경을 잘 돌아보며, 대부분의 조직활동에서 적응을 잘 했습니다.
-* 자기주장
-  * 생각을 숨기지 않는 편입니다. 오해를 피하기 위해 상대방의 이야기를 끝까지 잘 듣고 이해 한 뒤에  이야기하려 노력합니다.
+  <ul>
+    <li>
+      적응력
+      <ul>
+        <li>주변 환경을 잘 돌아보며, 대부분의 조직활동에서 적응을 잘 했습니다.</li>
+      </ul>
+    </li>
+    <li>
+      자기주장
+      <ul>
+        <li>생각을 숨기지 않는 편입니다. 오해를 피하기 위해 상대방의 이야기를 끝까지 잘 듣고 이해 한 뒤에  이야기하려 노력합니다.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 # 프로젝트
 ## CCTV 뷰어

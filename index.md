@@ -1,11 +1,7 @@
 <style>
     .horizonAlign img + ul {
         display: inline-block;
-        width: 65%;
-    }
-    .horizonAlign img + ul ~ img {
-        display: inline-block;
-        width: 35%;
+        width: 60%;
     }
 </style>
 
@@ -103,11 +99,11 @@
 ## CCTV 뷰어
 기관에서 수집 된 CCTV 영상을 관제하고 활용할 수 있는 웹 어플리케이션
 * Back-end
-<br/><img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_3.png" width="450px" height="300px"/>
-
+<br/><img src="https://raw.githubusercontent.com/nice1st/spring-msa-example/main/resources/a_3.png" width="500px" height="300px"/><br/>
   * 시스템 구성: Spring Cloud 기반 MSA 설계 및 개발
   * 데이터 모델링 및 RDB 설계
 * Front-end
+<br/><img src="data/s1.png" width="500px" height="300px"/><br/>
   * vanilla JS 컴포넌트 기반 개발
   * UI 개발
 

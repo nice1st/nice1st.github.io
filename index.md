@@ -33,9 +33,9 @@
     font-size: 1.2em;
   }
 
-  .b3 {
+  .b4 {
     font-weight: bold;
-    font-size: 1.3em;
+    font-size: 1.4em;
   }
 </style>
 
@@ -66,7 +66,7 @@
   <li><span class="level2">Spring Cloud MSA</span></li>
   <li><span class="level2">JWT</span></li>
   <li><span class="level2">Gradle</span></li>
-  <li><span class="level2">RabbitMQ</span></li>
+  <li><span class="level1">RabbitMQ</span></li>
   <li><span class="level1">NodeJS</span></li>
   <li><span class="level2">Dotnet</span></li>
   <li><span class="level2">Mysql</span></li>
@@ -78,7 +78,7 @@
 <ul class="skill horizon5">
   <li><span class="level3">Javascript</span></li>
   <li><span class="level3">ES6</span></li>
-  <li><span class="level2">Vanilla JS</span></li>
+  <li><span class="level2">VanillaJS</span></li>
   <li><span class="level1">React</span></li>
   <li><span class="level2">Web Component</span></li>
   <li><span class="level2">Babel</span></li>
@@ -100,8 +100,8 @@
 
 # 경력 (총 9년)
 
+<p><span class="b4">KTICT </span> <span>CCTV 웹 뷰어</span></p>
 <p class="current b2">2020.06 ~ 현재 (약 1년)</p>
-<p><span class="b3">KTICT </span> <span>CCTV 웹 뷰어</span></p>
 
 * 외주 인력에 의해 개발 된 프로젝트 유지보수 및 내재화 진행
 * 개발 구조 설계 및 개발
@@ -116,11 +116,11 @@
   <li><span class="level2">Hibernate</span></li>
   <li><span class="level2">JWT</span></li>
   <li><span class="level2">Mysql</span></li>
-  <li><span class="level1">Rabbit MQ</span></li>
+  <li><span class="level1">RabbitMQ</span></li>
   <li><span class="level3">Javascript</span></li>
   <li><span class="level2">Babel</span></li>
   <li><span class="level2">Webpack</span></li>
-  <li><span class="level1">Dotnet</span></li>
+  <li><span class="level2">Dotnet</span></li>
 </ul>
 
 * DevOps 환경 구축
@@ -132,8 +132,8 @@
   <li><span class="">Docker</span></li>
 </ul>
 
+<p><span class="b4">띵스파이어 </span> <span>GIS 기반 유무선 통신장비 관제 UI 개발</span></p>
 <p class="b2">2019.10 ~ 2020.05 (6개월)</p>
-<p><span class="b3">띵스파이어 </span> <span>GIS 기반 유무선 통신장비 관제 UI 개발</span></p>
 
 * 유선 통신 장비의 백본부터 고객 스위치까지 end-to-end 현황을 GIS 기반으로 개발
 * 컴플레인 발생시 고객 정보를 통해 장애구간을 바로 확인할 수 있도록 설계하여 응대 속도를 높임
@@ -146,8 +146,8 @@
   <li><span class="level1">TMap API</span></li>
 </ul>
 
+<p><span class="b4">파이오링크 </span> <span>네트워크 스위치 컨트롤러</span></p>
 <p class="b2">2016.11 ~ 2019.08 (2년 9개월)</p>
-<p><span class="b3">파이오링크 </span> <span>네트워크 스위치 컨트롤러</span></p>
 
 * 장비와 소켓 통신을 통해 데이터를 수집하고 관제 및 컨트롤 서비스 설계 및 개발
 * 실시간 통신 모듈로 성능 및 유저 사용성 개선
@@ -182,8 +182,8 @@
   <li><span class="level2">Webpack</span></li>
 </ul>
 
+<p><span class="b4">다임즈 </span> <span>EMS 통합관제</span></p>
 <p class="b2">2011.07 ~ 2016.04 (4년 9개월)</p>
-<p><span class="b3">다임즈 </span> <span>EMS 통합관제</span></p>
 
 * 네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션 개발
 * 유저 사용성 개선
@@ -191,3 +191,10 @@
   * MDI UI 로 유저 커스텀 기능 제공
   * MicroOffice 리본 메뉴 UI 와 Window8 Metro UI 벤치마킹 하여 UX 설계
 * 통계 쿼리 성능 개선
+<ul class="skill">
+  <li><span class="level3">JAVA</span></li>
+  <li><span class="level3">Spring</span></li>
+  <li><span class="level2">MariaDB</span></li>
+  <li><span class="level3">Flex</span></li>
+  <li><span class="level2">Mybatis</span></li>
+</ul>

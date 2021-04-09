@@ -25,12 +25,10 @@
   }
 </style>
 
-# 프로필
-
 <div style="overflow: hidden;">
   <div style="position: relative; float: left; width: 55%; padding: 10px">
     <h2>최 영 화</h2>
-    <h3>9년차 풀스택 개발자</h2>
+    <h3>9년차 풀스택 개발자</h3>
     <span>어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 </span>
   </div>
   <div style="float: left;">

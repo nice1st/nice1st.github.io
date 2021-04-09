@@ -41,8 +41,8 @@
 
 <div style="overflow: hidden;">
   <div style="position: relative; float: left; width: 55%; padding: 10px">
-    <h2 style="font-weight: bold; font-size: 2.5em;">최 영 화</h2>
-    <h3 style="font-weight: bold; font-size: 1.5em;">9년차 풀스택 개발자</h3>
+    <h2 style="font-weight: bold; font-size: 2.3em;">최 영 화</h2>
+    <h3 style="font-weight: bold; font-size: 1.4em;">9년차 풀스택 개발자</h3>
     <span>자기소개</span>
   </div>
   <div style="float: left;">

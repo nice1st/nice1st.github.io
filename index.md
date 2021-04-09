@@ -131,6 +131,7 @@
   <li><span class="">Gradle</span></li>
   <li><span class="">Docker</span></li>
 </ul>
+<hr>
 
 <p><span class="b4">띵스파이어 </span> <span>GIS 기반 유무선 통신장비 관제 UI 개발</span></p>
 <p class="b2">2019.10 ~ 2020.05 (6개월)</p>
@@ -145,6 +146,7 @@
   <li><span class="level3">JQuery</span></li>
   <li><span class="level1">TMap API</span></li>
 </ul>
+<hr>
 
 <p><span class="b4">파이오링크 </span> <span>네트워크 스위치 컨트롤러</span></p>
 <p class="b2">2016.11 ~ 2019.08 (2년 9개월)</p>
@@ -181,6 +183,7 @@
   <li><span class="level2">Babel</span></li>
   <li><span class="level2">Webpack</span></li>
 </ul>
+<hr>
 
 <p><span class="b4">다임즈 </span> <span>EMS 통합관제</span></p>
 <p class="b2">2011.07 ~ 2016.04 (4년 9개월)</p>
@@ -198,3 +201,4 @@
   <li><span class="level3">Flex</span></li>
   <li><span class="level2">Mybatis</span></li>
 </ul>
+<hr>

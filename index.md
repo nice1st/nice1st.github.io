@@ -18,23 +18,36 @@
     background-color: #70798a;
   }
   ul.skill span.level2 {
-    background-color: #4075ad;
+    background-color: #4376a0;
   }
   ul.skill span.level3 {
-    background-color: #007bff;
+    background-color: #0070ff;
+  }
+
+  .current {
+    color: #0070ff;
+  }
+
+  .b2 {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  .b3 {
+    font-weight: bold;
+    font-size: 1.3em;
   }
 </style>
 
 <div style="overflow: hidden;">
   <div style="position: relative; float: left; width: 55%; padding: 10px">
-    <h2>최 영 화</h2>
-    <h3>9년차 풀스택 개발자</h3>
-    <span>어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 </span>
+    <h2 style="font-weight: bold; font-size: 2.5em;">최 영 화</h2>
+    <h3 style="font-weight: bold; font-size: 1.5em;">9년차 풀스택 개발자</h3>
+    <span>자기소개</span>
   </div>
   <div style="float: left;">
     <img src="data/profile1.jpg" width="200px" height="200px"/>
     <ul>
-      <li>최영화</li>
       <li>1986.02.24</li>
       <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
       <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
@@ -44,7 +57,7 @@
 
 # 기술
 
-## Back-end
+### Back-end
 
 <ul class="skill horizon5">
   <li><span class="level3">JAVA</span></li>
@@ -60,7 +73,7 @@
   <li><span class="level1">Redis</span></li>
 </ul>
 
-## Front-end
+### Front-end
 
 <ul class="skill horizon5">
   <li><span class="level3">Javascript</span></li>
@@ -68,9 +81,12 @@
   <li><span class="level2">Vanilla JS</span></li>
   <li><span class="level1">React</span></li>
   <li><span class="level2">Web Component</span></li>
+  <li><span class="level2">Babel</span></li>
+  <li><span class="level2">Webpack</span></li>
+  <li><span class="level2">D3</span></li>
 </ul>
 
-## ETC
+### ETC
 
 <ul class="skill horizon5">
   <li><span>Git</span></li>
@@ -84,55 +100,94 @@
 
 # 경력 (총 9년)
 
-<p class="current">2020.06 ~ 현재 (약 1년)</p>
-<p><span class="">KTICT </span> <span>CCTV 웹 뷰어</span></p>
+<p class="current b2">2020.06 ~ 현재 (약 1년)</p>
+<p><span class="b3">KTICT </span> <span>CCTV 웹 뷰어</span></p>
 
-* 개발환경 구축
-  * 시스템 구성: Spring Cloud 기반 MSA 설계 및 개발
+* 외주 인력에 의해 개발 된 프로젝트 유지보수 및 내재화 진행
+* 개발 구조 설계 및 개발
+  * Spring Cloud 기반 MSA 설계 및 개발
   * 데이터 모델링 및 RDB 설계
-  * vanilla JS 컴포넌트 기반 개발
-  * UI 개발
+  * 컴포넌트 기반 UI 개발
+<ul class="skill">
+  <li><span class="level3">JAVA</span></li>
+  <li><span class="level3">Spring Boot</span></li>
+  <li><span class="level2">Spring Cloud Eureka</span></li>
+  <li><span class="level2">Spring Cloud Zuul</span></li>
+  <li><span class="level2">Hibernate</span></li>
+  <li><span class="level2">JWT</span></li>
+  <li><span class="level2">Mysql</span></li>
+  <li><span class="level1">Rabbit MQ</span></li>
+  <li><span class="level3">Javascript</span></li>
+  <li><span class="level2">Babel</span></li>
+  <li><span class="level2">Webpack</span></li>
+  <li><span class="level1">Dotnet</span></li>
+</ul>
 
-  <ul class="experience_keyword">
-    <li>Dotnet</li>
-  </ul>
+* DevOps 환경 구축
+  * Jenkins 도입하여 배포 자동화
+<ul class="skill">
+  <li><span class="">Jenkins</span></li>
+  <li><span class="">Git</span></li>
+  <li><span class="">Gradle</span></li>
+  <li><span class="">Docker</span></li>
+</ul>
 
-<!-- ## 띵스파이어
-* 2019.10 ~ 2020.05 (6개월)
-* GIS 기반 유무선 통신장비 관제 UI 개발
+<p class="b2">2019.10 ~ 2020.05 (6개월)</p>
+<p><span class="b3">띵스파이어 </span> <span>GIS 기반 유무선 통신장비 관제 UI 개발</span></p>
 
-## 파이오링크
-* 2016.11 ~ 2019.08 (2년 9개월)
-* 조직문화에 대한 고민
-  * 기술 및 개발내용 공유를 위해 노력 했습니다.
-  <br/><img src="data/s8.png" width="150px" height="80px"/>
-  <img src="data/s3.png" width="150px" height="80px"/>
-  <img src="data/s6.png" width="150px" height="80px"/><br/>
-    * 컴포넌트기반 개발
-    * 메시지 pub/sub 모델
-    * MSA
+* 유선 통신 장비의 백본부터 고객 스위치까지 end-to-end 현황을 GIS 기반으로 개발
+* 컴플레인 발생시 고객 정보를 통해 장애구간을 바로 확인할 수 있도록 설계하여 응대 속도를 높임
+<ul class="skill">
+  <li><span class="level3">JAVA</span></li>
+  <li><span class="level2">Nexcore</span></li>
+  <li><span class="level2">oracle</span></li>
+  <li><span class="level3">Javascript</span></li>
+  <li><span class="level3">JQuery</span></li>
+  <li><span class="level1">TMap API</span></li>
+</ul>
 
-## 다임즈
-* 2011.07 ~ 2016.04 (4년 9개월)
-* 좋은 UI에 대한 고민
-  * 최소한의 요청과 직관성
+<p class="b2">2016.11 ~ 2019.08 (2년 9개월)</p>
+<p><span class="b3">파이오링크 </span> <span>네트워크 스위치 컨트롤러</span></p>
 
+* 장비와 소켓 통신을 통해 데이터를 수집하고 관제 및 컨트롤 서비스 설계 및 개발
+* 실시간 통신 모듈로 성능 및 유저 사용성 개선
+  * 장비로부터 수집 된 데이터를 Broadcast 가능한 pub/sub 패턴 모듈을 개발
+  * D3 컴포넌트 등 으로 실시간 데이터를 시각화 하여 유저 사용성 개선
+  * 웹 소켓 게이트웨이 모듈로 성능 향상
+* 스케일 아웃으로 성능 향상
+  * 서버 스케일 아웃 설계
+  * Redis 도입하여 성능 향상 및 서버 동기화
+  * GlusterFS 도입하여 서버 리소스 동기화
+  * Redis 와 Elastic Search 클러스터링
+* API 성능 개선
+  * QueryDSL 활용하여 쿼리 성능 개선
+  * 코드 리팩토링으로 성능 개선
+* 개발 생산성 향상
+  * 웹 컴포넌트기반 개발을 도입 하여 생상성과 안정성 향상
+* 위자드 컴포넌트 설계 및 개발 하여 사용성 개선
+* DocumentFragment 활용하여 DOM rendering 성능 개선
+* 조직 문화 개선에 진취적으로 임함
+<ul class="skill">
+  <li><span class="level3">JAVA</span></li>
+  <li><span class="level3">Spring Boot</span></li>
+  <li><span class="level3">Netty</span></li>
+  <li><span class="level1">Elastic Search</span></li>
+  <li><span class="level2">Mysql</span></li>
+  <li><span class="level1">Redis</span></li>
+  <li><span class="level1">GlusterFS</span></li>
+  <li><span class="level3">Javascript</span></li>
+  <li><span class="level3">JQuery</span></li>
+  <li><span class="level2">D3</span></li>
+  <li><span class="level2">Babel</span></li>
+  <li><span class="level2">Webpack</span></li>
+</ul>
 
-## 네트워크 스위치 컨트롤러
-네트워크 스위치 통신하여 상태를 확인하고 설정할 수 있는 웹 어플리케이션
-<br/><img src="data/s7.png" width="450px" height="130px"/><br/>
-  * 메시지 Broadcast 모듈 개발
-  <br/><img src="data/s2.png" width="200px" height="100px"/>
-  <img src="data/s3.png" width="200px" height="100px"/><br/>
-    * 장비의 상태 수집 상황 및 장애 정보를 대시보드에서 실시간으로 관제할 수 있도록 메시지 구독 형태의 모듈을 설계 및 개발 했습니다.
-  * 레거시 프로젝트 Scale out 분석 및 구성
-  <br/><img src="data/s4.png" width="200px" height="100px"/>
-  <img src="data/s6.png" width="200px" height="100px"/><br/>
-  * 대시보드 플랫폼 설계 및 개발
-  <br/><img src="data/s5.png" width="200px" height="100px"/><br/>
+<p class="b2">2011.07 ~ 2016.04 (4년 9개월)</p>
+<p><span class="b3">다임즈 </span> <span>EMS 통합관제</span></p>
 
-## EMS 통합관제
-네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션
-<br/><img src="data/g1.gif" width="400px" height="240px"/><br/>
-* 주로 대시보드 개발
-* CRUD UI 및 이력/통계/레포트 개발 -->
+* 네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션 개발
+* 유저 사용성 개선
+  * Flexible 한 대시보드를 설계 하여 사용성 개선
+  * MDI UI 로 유저 커스텀 기능 제공
+  * MicroOffice 리본 메뉴 UI 와 Window8 Metro UI 벤치마킹 하여 UX 설계
+* 통계 쿼리 성능 개선

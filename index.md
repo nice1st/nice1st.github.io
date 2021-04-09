@@ -25,17 +25,21 @@
   }
 </style>
 
-# 프로필
-
-<div class="horizonAlign">
-  <img src="data/profile1.jpg" width="200px" height="200px"/>
-
-  <ul>
-    <li>최영화</li>
-    <li>1986.02.24</li>
-    <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
-    <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
-  </ul>
+<div style="overflow: hidden;">
+  <div style="position: relative; float: left; width: 55%; padding: 10px">
+    <h2>최 영 화</h2>
+    <h3>9년차 풀스택 개발자</h2>
+    <span>어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 어쩌구 저쩌구 </span>
+  </div>
+  <div style="float: left;">
+    <img src="data/profile1.jpg" width="200px" height="200px"/>
+    <ul>
+      <li>최영화</li>
+      <li>1986.02.24</li>
+      <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
+      <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
+    </ul>
+  </div>
 </div>
 
 # 기술

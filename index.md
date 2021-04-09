@@ -25,6 +25,8 @@
   }
 </style>
 
+# 프로필
+
 <div style="overflow: hidden;">
   <div style="position: relative; float: left; width: 55%; padding: 10px">
     <h2>최 영 화</h2>

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 <style>
   ul.skill > li {
     display: inline-block;

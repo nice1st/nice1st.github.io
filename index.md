@@ -51,6 +51,7 @@
     <img src="data/profile1.jpg" width="200px" height="200px"/>
     <ul>
       <li>1986.02.24</li>
+      <li>동서울대학 소프트웨어과</li>
       <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
       <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
     </ul>
@@ -167,7 +168,7 @@
   * QueryDSL 활용하여 쿼리 성능 개선
   * 코드 리팩토링으로 성능 개선
 * 개발 생산성 향상
-  * 웹 컴포넌트기반 개발을 도입 하여 생상성과 안정성 향상
+  * 웹 컴포넌트기반 개발을 도입 하여 생산성과 안정성 향상
 * 위자드 컴포넌트 설계 및 개발 하여 사용성 개선
 * DocumentFragment 활용하여 DOM rendering 성능 개선
 * 조직 문화 개선에 진취적으로 임함

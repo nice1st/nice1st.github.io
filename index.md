@@ -15,13 +15,13 @@
   }
 
   ul.skill span.level1 {
-    background-color: #70798a;
+    background-color: #70798a !important;
   }
   ul.skill span.level2 {
-    background-color: #4376a0;
+    background-color: #4376a0 !important;
   }
   ul.skill span.level3 {
-    background-color: #0070ff;
+    background-color: #0070ff !important;
   }
 
   .current {

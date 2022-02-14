@@ -48,10 +48,11 @@
     <p><span>구성원 간의 신뢰를 바탕으로 주도적으로 업무를 진행할 수 있는 밝고 건강한 조직을 선호합니다.</span></p>
   </div>
   <div style="float: left;">
-    <img src="data/profile1.jpg" width="200px" height="200px"/>
+    <img src="data/profile2.jpg" width="156px" height="200px"/>
     <ul>
       <li>1986.02.24</li>
       <li>동서울대학 소프트웨어과</li>
+      <li>학점은행제 컴퓨터공학</li>
       <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
       <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
     </ul>
@@ -101,10 +102,10 @@
   <li><span>Redmine</span></li>
 </ul>
 
-# 경력 (총 9년)
+# 경력 (총 9년 6개월)
 
 <p><span class="b4">KTICT </span> <span>CCTV 웹 뷰어</span></p>
-<p class="current b2">2020.06 ~ 현재 (약 1년)</p>
+<p class="current b2">2020.06 ~ 2021.07</p>
 
 * 외주 인력에 의해 개발 된 프로젝트 유지보수 및 내재화 진행
 * 개발 구조 설계 및 개발

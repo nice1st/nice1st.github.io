@@ -52,7 +52,7 @@
     <ul>
       <li>1986.02.24</li>
       <li>동서울대학 소프트웨어과</li>
-      <li>학점은행제 컴퓨터공학</li>
+      <li>학점은행제 컴퓨터공학 학사</li>
       <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
       <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
     </ul>
@@ -105,7 +105,7 @@
 # 경력 (총 9년 6개월)
 
 <p><span class="b4">KTICT </span> <span>CCTV 웹 뷰어</span></p>
-<p class="current b2">2020.06 ~ 2021.07</p>
+<p class="b2">2020.06 ~ 2021.07 (1년 1개월)</p>
 
 * 외주 인력에 의해 개발 된 프로젝트 유지보수 및 내재화 진행
 * 개발 구조 설계 및 개발
@@ -121,10 +121,12 @@
   <li><span class="level2">JWT</span></li>
   <li><span class="level2">Mysql</span></li>
   <li><span class="level1">RabbitMQ</span></li>
+  <li><span class="level2">Dotnet</span></li>
+</ul>
+<ul class="skill">
   <li><span class="level3">Javascript</span></li>
   <li><span class="level2">Babel</span></li>
   <li><span class="level2">Webpack</span></li>
-  <li><span class="level2">Dotnet</span></li>
 </ul>
 
 * DevOps 환경 구축
@@ -146,6 +148,8 @@
   <li><span class="level3">JAVA</span></li>
   <li><span class="level2">Nexcore</span></li>
   <li><span class="level2">oracle</span></li>
+</ul>
+<ul class="skill">
   <li><span class="level3">Javascript</span></li>
   <li><span class="level3">JQuery</span></li>
   <li><span class="level1">TMap API</span></li>
@@ -181,6 +185,8 @@
   <li><span class="level2">Mysql</span></li>
   <li><span class="level1">Redis</span></li>
   <li><span class="level1">GlusterFS</span></li>
+</ul>
+<ul class="skill">
   <li><span class="level3">Javascript</span></li>
   <li><span class="level3">JQuery</span></li>
   <li><span class="level2">D3</span></li>

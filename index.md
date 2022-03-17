@@ -102,7 +102,7 @@
   <li><span>Redmine</span></li>
 </ul>
 
-# 경력 (총 약 9년)
+# 경력 (약 9년)
 
 <p><span class="b4">KTICT </span> <span>CCTV 웹 뷰어</span></p>
 <p class="b2">2020.06 ~ 2021.07 (1년 1개월)</p>

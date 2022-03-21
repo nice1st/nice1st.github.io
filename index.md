@@ -53,6 +53,7 @@
       <li>1986.02.24</li>
       <li>동서울대학 소프트웨어과</li>
       <li>학점은행제 컴퓨터공학 학사</li>
+      <li>정보처리기사</li>
       <li><a href="mailto: nice1st_p@naver.com">nice1st_p@naver.com</a></li>
       <li><a href="https://github.com/nice1st">https://github.com/nice1st</a></li>
     </ul>

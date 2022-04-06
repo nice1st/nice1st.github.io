@@ -114,6 +114,9 @@
   * Spring Cloud 기반 MSA 설계 및 개발
   * 데이터 모델링 및 RDB 설계
   * 컴포넌트 기반 UI 개발
+* 유저 관리 기능 설계 및 개발
+  * 관리자 페이지에서 유저별 관제 권한 부여
+*  CCTV 관제 UI 개발
 <ul class="skill">
   <li><span class="level3">JAVA</span></li>
   <li><span class="level3">Spring Boot</span></li>

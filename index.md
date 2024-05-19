@@ -102,6 +102,26 @@
 <p><span class="b4">알서포트 </span> <span>REMOTE VIEW</span></p>
 <p class="b2">2022.05 ~ </p>
 
+* 납품 프로젝트 파트 리딩
+  * 요구분석, 설계, 일정관리 및 개발
+  * SSO 연동 및 인사연동, 결재연동
+  * 어드민 페이지
+  * 키오스크 원격 파일배포 및 실행 기능 설계 및 개발
+  * 원격 제어 흐름 개선
+* SaaS 운영 및 개발
+  * 배치 스케쥴러 추상화
+* 보안취약점 개선
+
+<ul class="skill">
+  <li><span class="level3">JAVA</span></li>
+  <li><span class="level3">Spring</span></li>
+  <li><span class="level2">Hibernate</span></li>
+  <li><span class="level2">Tomcat</span></li>
+  <li><span class="level2">Mysql</span></li>
+  <li><span class="level1">RabbitMQ</span></li>
+  <li><span class="level1">message broker</span></li>
+</ul>
+
 <p><span class="b4">KTICT </span> <span>CCTV 웹 뷰어</span></p>
 <p class="b2">2020.06 ~ 2021.07 (1년 2개월)</p>
 
@@ -142,23 +162,6 @@
 </ul>
 <hr>
 
-<p><span class="b4">띵스파이어 </span> <span>GIS 기반 유무선 통신장비 관제 UI 개발</span></p>
-<p class="b2">2019.10 ~ 2020.05 (8개월)</p>
-
-* 유선 통신 장비의 백본부터 고객 스위치까지 end-to-end 현황을 GIS 기반으로 개발
-* 컴플레인 발생시 고객 정보를 통해 장애구간을 바로 확인할 수 있도록 설계하여 응대 속도를 높임
-<ul class="skill">
-  <li><span class="level3">JAVA</span></li>
-  <li><span class="level2">Nexcore</span></li>
-  <li><span class="level2">oracle</span></li>
-</ul>
-<ul class="skill">
-  <li><span class="level3">Javascript</span></li>
-  <li><span class="level3">JQuery</span></li>
-  <li><span class="level1">TMap API</span></li>
-</ul>
-<hr>
-
 <p><span class="b4">파이오링크 </span> <span>네트워크 스위치 컨트롤러</span></p>
 <p class="b2">2016.11 ~ 2019.08 (2년 10개월)</p>
 
@@ -189,6 +192,23 @@
   <li><span class="level2">D3</span></li>
   <li><span class="level2">Babel</span></li>
   <li><span class="level2">Webpack</span></li>
+</ul>
+<hr>
+
+<p><span class="b4">띵스파이어 </span> <span>GIS 기반 유무선 통신장비 관제 UI 개발</span></p>
+<p class="b2">2019.10 ~ 2020.05 (8개월)</p>
+
+* 유선 통신 장비의 백본부터 고객 스위치까지 end-to-end 현황을 GIS 기반으로 개발
+* 컴플레인 발생시 고객 정보를 통해 장애구간을 바로 확인할 수 있도록 설계하여 응대 속도를 높임
+<ul class="skill">
+  <li><span class="level3">JAVA</span></li>
+  <li><span class="level2">Nexcore</span></li>
+  <li><span class="level2">oracle</span></li>
+</ul>
+<ul class="skill">
+  <li><span class="level3">Javascript</span></li>
+  <li><span class="level3">JQuery</span></li>
+  <li><span class="level1">TMap API</span></li>
 </ul>
 <hr>
 

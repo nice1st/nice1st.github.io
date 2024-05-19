@@ -42,13 +42,13 @@
 <div style="overflow: hidden;">
   <div style="position: relative; float: left; width: 55%; padding: 10px">
     <p style="font-weight: bold; font-size: 2.3em;">최 영 화</p>
-    <p style="font-weight: bold; font-size: 1.4em;">10년차 웹 어플리케이션 개발자</p>
+    <p style="font-weight: bold; font-size: 1.4em;">12년차 웹 어플리케이션 개발자</p>
     <p><span>웹 서비스를 설계/개발/배포/운영한 경험이 있으며, 비즈니스 가치 구현을 위한 최선의 방법을 찾기 위해 항상 고민하고 있습니다.</span></p>
-    <p><span>유지보수성을 고민합니다. 중복코드와 반복작업을 틈틈히 리팩토링 하여 예상하지 못했던 이슈에 대비 하고 생산성을 향상 시킵니다.</span></p>
+    <p><span>유지보수성을 고려합니다. 클린코드를 바탕으로 리뷰, 디버깅 시간을 단축시키고 확장성을 고려하여 설계합니다.</span></p>
     <p><span>구성원 간의 신뢰를 바탕으로 주도적으로 업무를 진행할 수 있는 밝고 건강한 조직을 선호합니다.</span></p>
   </div>
   <div style="float: left;">
-    <img src="data/profile2.jpg" width="156px" height="200px"/>
+    <img src="data/profile3.jpg" width="156px" height="200px"/>
     <ul>
       <li>1986.02.24</li>
       <li>동서울대학 소프트웨어과</li>
@@ -70,7 +70,6 @@
   <li><span class="level3">JPA</span></li>
   <li><span class="level2">Spring Cloud MSA</span></li>
   <li><span class="level2">JWT</span></li>
-  <li><span class="level2">Gradle</span></li>
   <li><span class="level1">RabbitMQ</span></li>
   <li><span class="level1">NodeJS</span></li>
   <li><span class="level2">Dotnet</span></li>
@@ -84,11 +83,6 @@
   <li><span class="level3">Javascript</span></li>
   <li><span class="level3">ES6</span></li>
   <li><span class="level2">VanillaJS</span></li>
-  <li><span class="level1">React</span></li>
-  <li><span class="level2">Web Component</span></li>
-  <li><span class="level2">Babel</span></li>
-  <li><span class="level2">Webpack</span></li>
-  <li><span class="level2">D3</span></li>
 </ul>
 
 ### ETC
@@ -103,7 +97,10 @@
   <li><span>Redmine</span></li>
 </ul>
 
-# 경력 (총 9년 6개월)
+# 경력 (약 12년)
+
+<p><span class="b4">알서포트 </span> <span>REMOTE VIEW</span></p>
+<p class="b2">2022.05 ~ </p>
 
 <p><span class="b4">KTICT </span> <span>CCTV 웹 뷰어</span></p>
 <p class="b2">2020.06 ~ 2021.07 (1년 2개월)</p>
@@ -116,7 +113,7 @@
   * 컴포넌트 기반 UI 개발
 * 유저 관리 기능 설계 및 개발
   * 유저별 CCTV 관제 설계
-  * 관리자 페이지에서 유저별 관제 권한 부여
+  * 어드민 페이지에서 유저별 관제 권한 부여
 *  CCTV 관제 UI 개발
 <ul class="skill">
   <li><span class="level3">JAVA</span></li>
@@ -166,24 +163,17 @@
 <p class="b2">2016.11 ~ 2019.08 (2년 10개월)</p>
 
 네트워크 장비 관제 및 원격 제어 시스템
-* 장비와 소켓 통신을 통해 데이터를 수집하고 관제 및 컨트롤 서비스 설계 및 개발
-* 실시간 통신 모듈로 성능 및 유저 사용성 개선
-  * 장비로부터 수집 된 데이터를 Broadcast 가능한 pub/sub 패턴 모듈을 개발
-  * D3 컴포넌트 등 으로 실시간 데이터를 시각화 하여 유저 사용성 개선
-  * 웹 소켓 게이트웨이 모듈로 성능 향상
+* 네트워크 장비의 리소스와 트래픽 데이터를 수집하고 관제 및 컨트롤 서비스 설계 및 개발
+  * 장비와 서버 소켓 연결
+  * 관제를 위한 클라이언트로 일부 데이터 Broadcast 설계
 * 스케일 아웃으로 성능 향상
-  * 서버 스케일 아웃 설계
-  * Redis 도입하여 성능 향상 및 서버 동기화
+  * 관제 장비 증가로 서버 스케일 아웃 설계
+  * Redis 로 장비 구성을 캐싱하여 데이터 동기화
   * GlusterFS 도입하여 서버 리소스 동기화
   * Redis 와 Elastic Search 클러스터링
 * API 성능 개선
   * QueryDSL 활용하여 쿼리 성능 개선
   * 코드 리팩토링으로 성능 개선
-* 개발 생산성 향상
-  * 웹 컴포넌트기반 개발을 도입 하여 생산성과 안정성 향상
-* 위자드 컴포넌트 설계 및 개발 하여 사용성 개선
-* DocumentFragment 활용하여 DOM rendering 성능 개선
-* 조직 문화 개선에 진취적으로 임함
 <ul class="skill">
   <li><span class="level3">JAVA</span></li>
   <li><span class="level3">Spring Boot</span></li>
@@ -206,10 +196,6 @@
 <p class="b2">2011.07 ~ 2016.04 (4년 10개월)</p>
 
 * 네트워크, 트래픽, 서버, DBMS 등의 장비에서 수집 된 정보를 대시보드로 서비스 하는 웹 어플리케이션 개발
-* 유저 사용성 개선
-  * Flexible 한 대시보드를 설계 하여 사용성 개선
-  * MDI UI 로 유저 커스텀 기능 제공
-  * MicroOffice 리본 메뉴 UI 와 Window8 Metro UI 벤치마킹 하여 UX 설계
 * 통계 쿼리 성능 개선
 <ul class="skill">
   <li><span class="level3">JAVA</span></li>

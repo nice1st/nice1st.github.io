@@ -48,7 +48,7 @@
     <p><span>구성원 간의 신뢰를 바탕으로 주도적으로 업무를 진행할 수 있는 밝고 건강한 조직을 선호합니다.</span></p>
   </div>
   <div style="float: left;">
-    <img src="data/profile3.png" width="156px" height="200px"/>
+    <img src="data/profile3.png" width="180px" height="200px"/>
     <ul>
       <li>1986.02.24</li>
       <li>동서울대학 소프트웨어과</li>

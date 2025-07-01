@@ -3,10 +3,12 @@
 <table><tr><td style="width:60%; vertical-align:top">
 
 <b>13년차 웹 어플리케이션 개발자</b> <br><br>
-웹 서비스를 설계/개발/배포/운영한 경험이 있으며, 비즈니스 가치 구현을 위한 최선의 방법을 찾기 위해 항상 고민하고 있습니다. <br>
+웹 서비스를 설계/개발/배포/운영한 경험이 있으며, <br>
+비즈니스 가치 구현을 위한 최선의 방법을 찾기 위해 항상 고민하고 있습니다. <br>
 주어진 자원과 환경에서 해결책을 위한 목표를 설정하고, 이를 설계하고 구현하는 능력이 강점입니다. <br>
 기술적 제약이나 요구사항 속에서 본질을 파악하고 우선순위를 조율하여 문제를 해결합니다. <br>
-유지보수성을 고려합니다. 클린코드를 바탕으로 리뷰, 디버깅 시간을 단축시키고 확장성을 고려하여 설계합니다. <br>
+클린 코드와 일관된 구조 설계를 통해 리뷰 및 디버깅 시간을 줄이고, <br>
+유지보수성과 확장성을 모두 고려한 개발을 지향합니다. <br>
 구성원 간의 신뢰를 바탕으로 주도적으로 업무를 진행할 수 있는 밝고 건강한 조직을 선호합니다.
 
 </td><td style="vertical-align:top">
@@ -26,37 +28,45 @@
 
 ### Back-end
 
-`JAVA` | `Spring` | `JPA` | `Spring Cloud MSA` | `JWT` | `Dotnet` | `Mysql` | `RabbitMQ` | `Redis` | `NodeJS`
+* `JAVA` | `Spring` | `JPA` | `Spring Cloud MSA`
+* `Mysql` | `RabbitMQ` | `Redis` | `Kafka`
+* `Dotnet` | `NodeJS`
 
 ### Front-end
 
-`Javascript` | `ES6` | `VanillaJS`
+* `Javascript` | `ES6` | `VanillaJS`
 
 ### DevOps & 기타
 
-`Git` | `SVN` | `Jenkins` | `Docker` | `Linux` | `Vi` | `Redmine`
+* `Git` | `SVN` | `Jenkins` | `Docker` | `Linux` | `Vi` | `Redmine`
 
 ---
 
-## 경력 (약 12년)
+## 경력 (약 13년)
 
-### 알서포트 – REMOTE VIEW (2022.05 \~ 현재)
+### ⭐ 알서포트 – REMOTE VIEW (2022.05 ~ 현재)
 
-**원격제어 시스템**
+> 📌 **주요 역할 요약**  
+> 사내 원격제어 시스템의 핵심 기능을 설계 및 구현하며, 복잡한 연동 환경과 요구사항에도 안정적인 서비스를 제공 했습니다.  
+> 납품 프로젝트를 리딩 하였고, SaaS 서비스도 운영, 개발 했습니다.
 
-* 납품 프로젝트 파트 리딩
+**원격제어 시스템 설계 및 납품 프로젝트 리딩**
+* 전체 일정 및 요구분석, 설계, 개발 책임 수행
+* **SSO / 인사 / 결재 시스템 연동**
+  * 프로젝트 표준 연동 인터페이스 설계 -> 연동 개발 시간 단축
+* **키오스크 원격 파일배포 및 실행 기능 설계**
+  * 일괄 배포 요청 시 서버 과부하를 방지하기 위한 비동기 스레드 처리 구조 설계
+* **계층형 권한에 대한 응답 속도 개선**
+  * 캐시 구조 설계 -> 권한 조회 응답시간 단축
+* Spring Framework 5.2.8 → Spring Boot 2.7 업그레이드
+* 어드민 기능 전체 구현
 
-  * 요구분석, 설계, 일정관리 및 개발
-  * SSO, 인사, 결재 시스템 연동
-  * 어드민 페이지 구현
-  * 키오스크 원격 파일배포 및 실행 기능 설계 및 개발
-  * 원격 제어 흐름 개선
-* SaaS 운영 및 개발
-
-  * 배치 스케쥴러 추상화
+**SaaS 환경 운영 및 성능 개선**
+* 제어 흐름 개선으로 원격제어 성능 향상
+  * 여러 클라이언트와 협업을 통해 기능 개선 주도
+* **API Throttling 적용** -> 특수항 경우에 반복 호출되는 API 개선
+* **배치 스케줄러 추상화** -> 모듈화로 유지보수 시간 절감
 * 보안취약점 개선
-
-**기술 스택**: JAVA, Spring, Hibernate, Tomcat, Mysql, RabbitMQ, message broker
 
 ---
 
@@ -70,8 +80,6 @@
 * 유저별 CCTV 권한 관리 및 어드민 기능
 * Jenkins 도입, 배포 자동화
 
-**기술 스택**: JAVA, Spring Boot, Spring Cloud Eureka/Zuul, Hibernate, JWT, Mysql, RabbitMQ, Dotnet, Javascript, Babel, Webpack, Jenkins, Git, Gradle, Docker
-
 ---
 
 ### 파이오링크 – 네트워크 스위치 컨트롤러 (2016.11 \~ 2019.08)
@@ -84,8 +92,6 @@
 * Redis/ElasticSearch 클러스터, GlusterFS 기반 리소스 동기화
 * QueryDSL 활용 API 성능 개선
 
-**기술 스택**: JAVA, Spring Boot, Netty, Elastic Search, Mysql, Redis, GlusterFS, Javascript, JQuery, D3, Babel, Webpack
-
 ---
 
 ### 띵스파이어 – GIS 기반 유무선 통신장비 관제 UI (2019.10 \~ 2020.05)
@@ -93,15 +99,11 @@
 * 유무선 통신 장비의 GIS 기반 상태 시각화
 * 장애 발생 시 고객 정보 기반 빠른 응대 가능
 
-**기술 스택**: JAVA, Nexcore, Oracle, Javascript, JQuery, TMap API
-
 ---
 
 ### 다임즈 – EMS 통합관제 (2011.07 \~ 2016.04)
 
 * 다양한 인프라 자원의 모니터링 및 대시보드 제공 웹 어플리케이션 개발
 * 통계 쿼리 성능 개선
-
-**기술 스택**: JAVA, Spring, MariaDB, Flex, Mybatis
 
 ---

@@ -2,8 +2,7 @@
 
 <table><tr><td style="width:60%; vertical-align:top">
 
-<b>13년차 웹 어플리케이션 개발자</b>
-
+<b>13년차 웹 어플리케이션 개발자</b> <br><br>
 웹 서비스를 설계/개발/배포/운영한 경험이 있으며, 비즈니스 가치 구현을 위한 최선의 방법을 찾기 위해 항상 고민하고 있습니다. <br>
 주어진 자원과 환경에서 해결책을 위한 목표를 설정하고, 이를 설계하고 구현하는 능력이 강점입니다. <br>
 기술적 제약이나 요구사항 속에서 본질을 파악하고 우선순위를 조율하여 문제를 해결합니다. <br>
@@ -16,8 +15,8 @@
 <b>생년월일</b>: 1986.02.24 <br>
 <b>학력</b>: <br> 동서울대학 소프트웨어과 / 학점은행제 컴퓨터공학 학사 <br>
 <b>자격증</b>: 정보처리기사 <br>
-<b>이메일</b>: [nice1st\_p@naver.com](mailto:nice1st_p@naver.com) <br>
-<b>GitHub</b>: [https://github.com/nice1st](https://github.com/nice1st)
+<b>이메일</b>: <a href="mailto:nice1st_p@naver.com">nice1st_p@naver.com</a><br>
+<b>GitHub</b>: <a href="https://github.com/nice1st" target="_blank">https://github.com/nice1st</a>
 
 </td></tr></table>
 

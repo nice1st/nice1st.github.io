@@ -185,6 +185,4 @@
 
 **Infra / DevOps**: Docker, Jenkins
 
-**Others**: Asterisk (AMI / ARI)
-
 ---

@@ -1,16 +1,14 @@
 ## 최영화
 
-<table><tr><td style="width:60%; vertical-align:top">
+<table><tr><td>
 
 <b>14년차 백엔드 개발자</b> <br><br>
 <p>복잡한 도메인과 예측 불가능한 운영 이슈를 구조적인 설계로 해결하는 백엔드 개발자입니다.</p>
 <p>관제, 원격제어, 플랫폼 서비스 환경에서 상태 관리, 인증, 외부 연동이 얽힌 시스템을 다루며 운영 중 발생하는 장애와 성능 문제에서 구조적 한계를 식별하고, 이를 개선하는 역할을 맡아왔습니다.</p>
 <p>단기적인 해결보다 문제의 근본 원인을 정의하고, 이를 아키텍처 구조로 해결하는 방식을 지향합니다.</p>
-
-</td><td style="vertical-align:top">
-
+<br>
 <b>생년월일</b>: 1986.02.24 <br>
-<b>학력</b>: <br> 동서울대학 소프트웨어과 / 학점은행제 컴퓨터공학 학사 <br>
+<b>학력</b>: 동서울대학 소프트웨어과 / 학점은행제 컴퓨터공학 학사 <br>
 <b>자격증</b>: 정보처리기사 <br>
 <b>이메일</b>: <a href="mailto:nice1st_p@naver.com">nice1st_p@naver.com</a><br>
 <b>GitHub</b>: <a href="https://github.com/nice1st" target="_blank">https://github.com/nice1st</a>

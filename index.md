@@ -9,7 +9,6 @@
 
 </td><td style="vertical-align:top">
 
-<img src="data/profile4.png" width="160px" height="180px"> <br>
 <b>생년월일</b>: 1986.02.24 <br>
 <b>학력</b>: <br> 동서울대학 소프트웨어과 / 학점은행제 컴퓨터공학 학사 <br>
 <b>자격증</b>: 정보처리기사 <br>

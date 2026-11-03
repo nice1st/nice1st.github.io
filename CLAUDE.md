@@ -12,6 +12,7 @@ GitHub Pages를 이용한 개인 포트폴리오 사이트입니다. Jekyll 기�
 - `index_b.md`: GitHub Pages 기본 템플릿 (참고용)
 - `_config.yml`: Jekyll 설정 파일
 - `data/`: 이미지 및 정적 리소스 (프로필 사진, 스크린샷 등)
+- `docs/design-decisions.md`: 프로젝트별 설계 판단 배경과 index.md에 없는 보충 사실. 맞춤 이력서와 면접 준비의 근거로 쓰며, index.md에서 링크하지 않음
 
 ## 콘텐츠 수정
 

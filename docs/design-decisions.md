@@ -75,6 +75,7 @@ index.md에는 없지만 맞춤 이력서에 쓸 수 있는 사실입니다.
 * 정보처리기사 취득: 2021.06, 한국산업인력공단
 * index.md 기술 스택에 없는 실무 기술: Spring Security, Spring Modulith, Langfuse
 * 무인 e2e 품질 루프는 알서포트 업무 — 맞춤 이력서에서 알서포트 경력 아래에 적어도 됨
+* 알서포트 Remote View 납품에서 원격 에이전트로 디바이스 리소스를 수집해 InfluxDB에 시계열로 저장하고 관제를 제공
 * KTICT에서 Spring Cloud 기반 MSA 구조를 설계함
 * Linux 환경 서비스 운영 경험이 많음 — 그동안의 서비스를 Linux에서 운영
 * AWS 경험은 미비 — 이력서에 쓰지 않음
